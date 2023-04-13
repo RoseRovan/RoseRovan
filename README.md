@@ -18,7 +18,7 @@
 - 💬 Ask me about **web apps, and tech.**
 
 - 📫 How to reach me **devkimanirosemary@gmail.com**
-- 📫 Reach me on **@RosemaryKimani**
+- 📫 Reach me on **https://www.linkedin.com/in/rosemary-kimani-0b3120261/**
 
 - ⚡ Fun fact **Am passionate about tech-start-up . Am a code-mind.**
 
