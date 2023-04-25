@@ -67,7 +67,7 @@
         <a href="">
           <img
             width="300px"
-            src="./assets/SD FlatIron Cert--2023-02-27 10_20am.pdf"
+            src="assets/SD FlatIron.jpg"
           />
         </a>
       </td>
